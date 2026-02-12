@@ -49,8 +49,7 @@ intervalos rodando ao mesmo tempo.
 
 ## ▶️ Como executar o projeto
 
-1.  Baixe ou clone este repositório: git clone
-    https://github.com/seu-usuario/cronometro.git
+1.  Baixe ou clone este repositório
 
 2.  Abra o arquivo **index.html** no navegador.
 
